@@ -1,9 +1,15 @@
 [Item]
 Cookie
+Pizza
+
+Items concumables
+effect over time or instant effect
+
 
 Iso metric view
 
 Pet sitting and fishing by lake with cute vibrant background.
+
 
 upgrade ideas:
 better fishing pole
@@ -11,4 +17,17 @@ better bait
 snacks
 music
 chair
- 
+Glas isolatino protection
+
+
+[Maintenance]
+1--------------
+Food
+2--------------
+Happy
+3--------------
+Clean
+4--------------
+Health
+5--------------
+Sleep
