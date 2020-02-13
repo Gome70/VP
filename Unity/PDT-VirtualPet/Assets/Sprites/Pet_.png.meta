@@ -5,6 +5,12 @@ TextureImporter:
   - first:
       213: 8088746143197392555
     second: Pet__0
+  - first:
+      213: -2882217728337360284
+    second: Pet__0
+  - first:
+      213: -2138136331388403131
+    second: Pet__1
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -103,8 +109,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bae679fd2cff04070800000000000000
-      internalID: 8088746143197392555
+      spriteID: 46a4e192f3e4008d0800000000000000
+      internalID: -2882217728337360284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet__1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 493
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542cc3eb550d352e0800000000000000
+      internalID: -2138136331388403131
       vertices: []
       indices: 
       edges: []
